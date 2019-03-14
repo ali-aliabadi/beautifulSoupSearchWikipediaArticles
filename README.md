@@ -8,6 +8,7 @@ you can install them by pip using these commands :
 
 <code>pip install bs4
 </code>
+
 <code>
 pip install requests
 </code>
