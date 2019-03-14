@@ -1,4 +1,4 @@
-get a string and search about it on wikipedia and show something about it using python BeautifulSoup.
+get a string and search about it on wikipedia and show something about it using python 3 <strong>BeautifulSoup</strong>.
 
 this program give first pragraph of article if exist and the first image.
 
