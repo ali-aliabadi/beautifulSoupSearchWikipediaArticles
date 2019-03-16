@@ -17,12 +17,12 @@ needs internet while running.
 
 some suggestion for testing :
 <br>
--  computer science
+computer science
 <br>
--  graph theory
+graph theory
 <br>
--  math
+math
 <br>
--  fire man
+fire man
 <br>
 	
