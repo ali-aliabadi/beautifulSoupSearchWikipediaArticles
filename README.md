@@ -16,4 +16,15 @@ pip install requests
 <br>
 needs internet while running.
 
+some suggestion for testing :
 
+
+	computer science
+<br>
+	graph theory
+<br>
+	math
+<br>
+	fire man
+<br>
+	
