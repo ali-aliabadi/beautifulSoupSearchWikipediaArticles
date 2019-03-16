@@ -12,18 +12,18 @@ you can install them by pip using these commands :
 <code>
 pip install requests
 </code>
-<br>
-<br>
+<br><br>
 needs internet while running.
 
 some suggestion for testing :
 <br>
-	computer science
 <br>
-	graph theory
+<p>computer science</p>
 <br>
-	math
+<p>graph theory</p>
 <br>
-	fire man
+<p>math</p>
+<br>
+<p>fire man</p>
 <br>
 	
