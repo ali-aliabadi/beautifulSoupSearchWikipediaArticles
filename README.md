@@ -17,8 +17,7 @@ pip install requests
 needs internet while running.
 
 some suggestion for testing :
-
-
+<br>
 	computer science
 <br>
 	graph theory
