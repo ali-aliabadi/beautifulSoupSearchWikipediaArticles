@@ -17,12 +17,12 @@ needs internet while running.
 
 some suggestion for testing :
 <br>
-<pre>    </pre> computer science
+-  computer science
 <br>
-<pre>    </pre> graph theory
+-  graph theory
 <br>
-<pre>    </pre> math
+-  math
 <br>
-<pre>    </pre> fire man
+-  fire man
 <br>
 	
