@@ -6,11 +6,7 @@ before running you first need to install 'bs4' and 'requests' packages.
 
 you can install them by pip using these commands : 
 
-<code>pip install bs4
-</code>
-<br>
-<code>
-pip install requests
+<code>pip install -r requirements.txt
 </code>
 <br><br>
 needs internet while running.
